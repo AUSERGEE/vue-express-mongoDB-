@@ -1,5 +1,5 @@
 
-# vue+express+mongoDB实现的
+# vue+express+mongoDB全栈商城
 
 ### 一.技术栈:
   1. 前端使用vue+vuex+axios；
