@@ -22,13 +22,8 @@
  ###三.项目截图
     ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/01.png)
     ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png)
-    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png)
-    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png)
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/01.png" width="60%" />
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png" width="60%" />
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/3.png" width="60%" />
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/4.png" width="60%" />
- 
+    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/3.png)
+    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/4.png)
  
   
 
