@@ -14,16 +14,21 @@
   1. 用户登录登出（帐号：admin， 密码：123456）
   2. 商品列表及价格区间筛选；
   3. 添加到购物车，商品数量加减按钮，删除商品等功能；
-  4. 用户地址管理，默认地址和地址删除
+  4. 用户地址管理，默认地址和地址删除  
   &nbsp;&nbsp;后端代码放在server2文件中，在本地运行vue时，同时也要运行server2；
   &nbsp;&nbsp;本地安装完mongoDB后，我又装了robo3t，方便导入数据；
   
   
- ###三.项目截图
+ ###三.项目截图  
+ 
     ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/01.png)
-    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png)
-    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/3.png)
-    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/4.png)
+    
+    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png)  
+    
+    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/3.png)  
+    
+    ![lena](https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/4.png)  
+    
  
   
 
