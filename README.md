@@ -1,6 +1,8 @@
 
 # vue+express+mongoDB全栈商城
 
+>项目线上预览：http://120.77.255.233:8081  帐号：admin 密码：123456
+
 ### 一.技术栈:
   1. 前端使用vue+vuex+axios；
   2. nodejs的express框架；
