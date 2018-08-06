@@ -21,10 +21,10 @@
   
  ###三.项目截图
  
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/01.png" width=“60%”>
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png" width=“60%”>
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/3.png" width=“60%”>
-    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/4.png" width=“60%”>
+    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/01.png" width="60%">
+    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/2.png" width="60%">
+    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/3.png" width="60%">
+    <img src="https://raw.githubusercontent.com/AUSERGEE/vue-express-mongoDB-/master/page-img/4.png" width="60%">
  
  
   
